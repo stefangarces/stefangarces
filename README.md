@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @stefangarces, living in Gothenburg, Sweden.
-- 👀 I’m interested in coding, football and lifing heavy in the gym.
-- 🌱 I’m currently learning .NET software development.
-- 💞️ I’m looking to collaborate on open source projects, I have never done it before, but it would be fun to try it out.
+- 👋 Hi, I’m Stefan Garcés, a software engineer living in Gothenburg, Sweden.
+- 🌱 I’m currently working at Volvo Group.
+- 👀 I’m interested in coding, football and solving puzzle games.
+- 💞️ Feel free to connect with me on LinkedIn: https://www.linkedin.com/in/stefangarces/
 - 📫 You can reach me by mail: stefangarces@gmail.com
 
 <!---
